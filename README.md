@@ -3,7 +3,7 @@
 
 A beautiful glassmorphism-styled "Read Later" link board. Save links, tag them, mark them as read, and never lose an interesting article again.
 
-**[🔗 Live Demo]([https://your-vercel-url.vercel.app](https://readboard-seven.vercel.app/))**
+**[Live Demo Link](https://readboard-seven.vercel.app/)**
 
 ## ✨ Features
 
