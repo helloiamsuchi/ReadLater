@@ -24,6 +24,4 @@ A beautiful glassmorphism-styled "Read Later" link board. Save links, tag them, 
 - 
 ## 📸 Preview
 
-> A dark, glass-styled link board with animated background orbs, card-based layout, and smooth interactions.
-
 ![Alt text](Dashboard.png)
